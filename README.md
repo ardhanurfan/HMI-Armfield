@@ -2,7 +2,7 @@
 A responsive web implementation of the Miniplant Monitoring System, including dashboard ,login, testing, database, and profile page. This webpage displays a graph of the testing database and allows multiple login from different users.
 
 Build with laravel for backend
-[https://github.com/ardhanurfan/armfield-backend]
+https://github.com/ardhanurfan/armfield-backend
 
 # Getting Started with Create React App
 
